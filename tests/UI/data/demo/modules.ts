@@ -20,7 +20,7 @@ export default {
   psEmailAlerts: new ModuleData({
     tag: 'ps_emailalerts',
     name: 'Mail alerts',
-    releaseZip: 'https://github.com/PrestaShop/ps_emailalerts/releases/download/v2.4.2/ps_emailalerts.zip',
+    releaseZip: 'https://github.com/PrestaShop/ps_emailalerts/releases/download/v3.0.0/ps_emailalerts.zip',
   }),
   psEmailSubscription: new ModuleData({
     tag: 'ps_emailsubscription',
@@ -29,7 +29,7 @@ export default {
   psFacetedSearch: new ModuleData({
     tag: 'ps_facetedsearch',
     name: 'Faceted search',
-    releaseZip: 'https://github.com/PrestaShop/ps_facetedsearch/releases/download/v3.14.1/ps_facetedsearch.zip',
+    releaseZip: 'https://github.com/PrestaShop/ps_facetedsearch/releases/download/v3.16.1/ps_facetedsearch.zip',
   }),
   psThemeCusto: new ModuleData({
     tag: 'ps_themecusto',
